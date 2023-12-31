@@ -1,0 +1,17 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend project made by arnab with the help of hitesh chai aur backend playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "arnab",
+    "backend",
+    "hitesh"
+  ],
+  "author": "Arnab Pal",
+  "license": "ISC"
+}
